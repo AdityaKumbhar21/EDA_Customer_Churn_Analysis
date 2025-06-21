@@ -3,8 +3,8 @@
 ## Overview
 This project explores **customer churn** through **Exploratory Data Analysis (EDA)**.  
 The goal is to uncover patterns and insights into what factors contribute most to customers leaving.
-
 ---
+A detailed summary report/PPT of the project: [Click here](https://www.canva.com/design/DAGqxrdv3eY/kfacleE_9h_KqdHxgHdu4A/view?utm_content=DAGqxrdv3eY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha3f93a78ab)
 
 ## 📂 Dataset
 - **Features**:
